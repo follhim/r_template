@@ -26,16 +26,7 @@ This repository contains materials related to the the paper:
 - Data
   - Participants did not consent to the public release of the data.
 
-Here’s a revised version that’s friendlier for beginners while staying
-concise:
-
-------------------------------------------------------------------------
-
-Here’s the revised section:
-
-------------------------------------------------------------------------
-
-## How to Reproduce the Analysis Using `{renv}`
+# How to Reproduce the Analysis Using `{renv}`
 
 This project uses `{renv}` to ensure you’re working with the exact same
 R packages and versions used in the original analysis.
@@ -51,7 +42,8 @@ R packages and versions used in the original analysis.
 
 **Option A — Git clone (if you use Git):**
 
-Open a terminal, navigate to where you want the project saved, and run:
+Open a terminal on your local computer, navigate to where you want the
+project saved, and run:
 
 ``` bash
 git clone LINK-IS-BLINDED
