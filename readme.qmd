@@ -17,7 +17,7 @@ This repository contains materials related to the the paper:
 ## What is available? 
 
 -  Analytic code
-   -  Clink on [here](LINK)
+   -  Click on [here](LINK)
    -  Download the `Analysis.qmd` file.
 -  Output
    -  Download the `Analysis.html` file.
