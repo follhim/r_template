@@ -8,7 +8,11 @@ format: gfm
 This repository is blinded for peer-review at this time.
 :::
 
-This repository contains materials related to the the paper:
+:::callout-tip
+For most readers, [this](LINK) is the best place to start — it shows all code and results together in one page without needing to install anything. 
+
+If the link does not work, you can also download and open the `analysis.html` file on your device.
+:::
 
 *Name of Study*
 
